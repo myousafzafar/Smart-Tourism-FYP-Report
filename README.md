@@ -12,7 +12,8 @@ This project is a computer vision prototype developed to assist the Khyber Pakht
 * **Data Analysis:** Developed a "net flow" concept to estimate region capacity and identify congestion risks.
 
 ## Documents
-* [Full Project Summary (PDF)](https://github.com/myousafzafar/Smart-Tourism-FYP-Report/blob/main/Summary_of_Bachelor_Final_Year_Project.pdf)
+* [Full Project Report (PDF)](https://github.com/myousafzafar/Smart-Tourism-FYP-Report/blob/main/Full_Report_Bachelor_Final_Year_Project.pdf)
+* [Project Summary (PDF)](https://github.com/myousafzafar/Smart-Tourism-FYP-Report/blob/main/Summary_of_Bachelor_Final_Year_Project.pdf)
 
 ## Funding & Recognition
 The project was a funded initiative (PKR 2.3 Million) and served as a technical foundation for ongoing research at GIKI in collaboration with provincial tourism authorities.
