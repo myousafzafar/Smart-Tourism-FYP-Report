@@ -3,7 +3,7 @@
 **Grade:** A (4.0/4.0)
 
 ## Project Overview
-This project is a computer vision prototype developed to assist the Khyber Pakhtunkhwa Culture and Tourism Authority (KP-CTA) in monitoring tourist density and traffic flow. Motivated by the 2022 Murree snowstorm incident, the system aims to improve public safety through real-time data analysis.
+This project is a computer vision prototype developed to assist the Khyber Pakhtunkhwa Culture and Tourism Authority (KP-CTA) in monitoring tourist amount and traffic flow. Motivated by the 2022 Murree snowstorm incident, the system aims to improve public safety through real-time data analysis.
 
 ## Key Technical Features
 * **Object Detection:** Implemented **YOLOv4** to detect and classify vehicles and pedestrians.
